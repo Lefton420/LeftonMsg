@@ -1,0 +1,18 @@
+name: LeftonMsg
+main: org.lefton.leftonmsg.LeftonMsg
+version: 1.0
+author: Lefton
+commands:
+  msg:
+    description: Message another player.
+    usage: /<command> playername
+
+  r:
+    description: Reply to a players message.
+    usage: /<command>
+
+  w:
+    description: Message another player.
+    usage: /<command> playername
+
+api-version: 1.15
