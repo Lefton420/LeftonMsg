@@ -1,18 +1,11 @@
-name: LeftonMsg
-main: org.lefton.leftonmsg.LeftonMsg
-version: 1.0
+name: LeftonKill
+main: org.lefton.leftonkill.LeftonKill
+version: 1.1
 author: Lefton
 commands:
-  msg:
-    description: Message another player.
-    usage: /<command> playername
-
-  r:
-    description: Reply to a players message.
+  kill:
+    description: kill command
     usage: /<command>
 
-  w:
-    description: Message another player.
-    usage: /<command> playername
 
 api-version: 1.15

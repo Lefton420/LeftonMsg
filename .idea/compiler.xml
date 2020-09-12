@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="LeftonMsg" />
+        <module name="LeftonMsg - Copy" />
+        <module name="LeftonKill" />
       </profile>
     </annotationProcessing>
   </component>
